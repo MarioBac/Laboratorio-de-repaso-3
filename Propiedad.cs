@@ -10,6 +10,6 @@ namespace Laboratorio_de_repaso_3
     {
         public string numeroCasa { get; set; } 
         public string dpiDueno { get; set;}
-        public decimal mantenimiento { get; set; }
+        public decimal cuota { get; set; }
     }
 }
