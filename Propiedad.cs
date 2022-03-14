@@ -8,8 +8,8 @@ namespace Laboratorio_de_repaso_3
 {
     internal class Propiedad
     {
-        public string NumCasa { get; set; } 
-        public string DPI { get; set;}
-        public int Cuota { get; set; }
+        public string numeroCasa { get; set; } 
+        public string dpiDueno { get; set;}
+        public decimal mantenimiento { get; set; }
     }
 }

@@ -1,0 +1,12 @@
+casa1
+dpi2
+700
+casa2
+dpi3
+750
+casa3
+dpi1
+800
+casa4
+dpi3
+750

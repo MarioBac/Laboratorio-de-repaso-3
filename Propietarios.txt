@@ -1,0 +1,9 @@
+dpi1
+nombre1
+apellido1
+dpi2
+nombre2
+apellido2
+dpi3
+nombre3
+apellido3
